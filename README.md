@@ -1,4 +1,4 @@
-# Me chamo José Fausto👨‍💻, Sejam bem vindos!
+# Me chamo José Fausto👨‍💻, Sejam bem vindos (A)!
 
 🏠Pernambucano.
 
