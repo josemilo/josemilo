@@ -4,7 +4,7 @@
 
 **`Analista de Dados`**
 
-Me chamo José Fausto, tenho 23 anos e sou Natural de Pernambuco, atualmente faço faculdade de Sistema de informação na Estácio Recife.Sou apaixonado por tecnologia e gosto de inovar ideias e trazer conhecimento para o meu dia dia!
+Me chamo José Fausto, tenho 24 anos e sou Natural de Pernambuco, atualmente faço faculdade de Sistema de informação na Estácio Recife.Sou apaixonado por tecnologia e gosto de inovar ideias e trazer conhecimento para o meu dia dia!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-fausto-46b14a1b0/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](fau12.martinsmelo@gmail.com) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josefaustto/) [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996624509?)
 
